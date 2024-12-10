@@ -9,7 +9,7 @@ Features:
 Ocean modifier with high-detail waves.
 Animated buoy with realistic physics.
 Preview:
-![ocean](https://github.com/Akshita3104/Blender/blob/b7991037dfee4141369e63aae97b458415b4bbe0/Ocean/ocean.mp4)
+
 
 3. Ice Falling into a Glass Filled with Liquid
 Description: A simulation of ice cubes falling into a glass of liquid with realistic water splashes.
@@ -26,8 +26,9 @@ Features:
 Procedural textures for neon lights.
 A dystopian city vibe with ambient fog.
 Preview:
+![Building](https://github.com/Akshita3104/Blender/blob/8569991c6b01f11d471e81fb81e0082766918787/Cyberpunk-building/building.png)
 
-5. Battery Showing Charge Level
+6. Battery Showing Charge Level
 Description: A 3D battery model that dynamically displays the charge level.
 Tutorial Reference: Battery Level Animation Tutorial
 Features:
